@@ -1,0 +1,29 @@
+[     385ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:0
+[     408ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:0
+[    3266ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[    6375ms] [LOG] firstH4 Brocolli - 1 Kg @ :2
+[    6375ms] [LOG] buttons [PROCEED TO CHECKOUT, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART] @ :4
+[    6376ms] [LOG] cartLink true <a class="cart-icon" href="#"><img class=" " src="https://rahulshettyacademy.com/seleniumPractise/images/bag.png" alt="Cart"></a> @ :6
+[    6376ms] [LOG] search true <input type="search" placeholder="Search for Vegetables and Fruits" class="search-keyword"> @ :8
+[   15139ms] [LOG] [, PROCEED TO CHECKOUT, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART] @ :2
+[   15145ms] [LOG] html:(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+	 || head:(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+	 || style:html,body,ul,ol{margin:0;padding:0}body{font-family:Roboto;font-size:16px;color: || body:<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PVBTJWPP" height="0 || div:GREENKARTGet Shortlisted by Recruiters - Take QA Skill Assessments on TechSmartH || div:GREENKARTGet Shortlisted by Recruiters - Take QA Skill Assessments on TechSmartH || div:Brocolli - 1 Kg120–+ADD TO CARTCauliflower - 1 Kg60–+ADD TO CARTCucumber - 1 Kg4 || div:Brocolli - 1 Kg120–+ADD TO CARTCauliflower - 1 Kg60–+ADD TO CARTCucumber - 1 Kg4 || div:Brocolli - 1 Kg120–+ADD TO CART || div:ADD TO CART || button:ADD TO CART || div:Cauliflower - 1 Kg60–+ADD TO CART || div:ADD TO CART || button:ADD TO CART || div:Cucumber - 1 Kg48–+ADD TO CART || div:ADD TO CART || button:ADD TO CART || div:Beetroot - 1 Kg32–+ADD TO CART || div:ADD TO CART || button:ADD TO CART || div:Carrot - 1 Kg56–+ADD TO CART || div:ADD TO CART || button:ADD TO CART || div:Tomato - 1 Kg16–+ADD TO CART || div:ADD TO CART || button:ADD TO CART || div:Beans - 1 Kg82–+ADD TO CART || div:ADD TO CART || button:ADD TO CART || div:Brinjal - 1 Kg35–+ADD TO CART @ :4
+[   25933ms] [LOG] cards 31 @ :2
+[   25934ms] [LOG] first card <div class="product"><div class="product-image"><img src="./images/broccoli.jpg" alt="Brocolli - 1 Kg"></div><h4 class="product-name">Brocolli - 1 Kg</h4><p class="product-price">120</p><div class="stepper-input"><a href="#" class="decrement">–</a><input type="number" class="quantity" value="1"><a href="#" class="increment">+</a></div><div class="product-action"><button class="" type="button">ADD TO CART</button></div></div> @ :4
+[   25934ms] [LOG] cart exists true @ :7
+[   25934ms] [LOG] cart html <a class="cart-icon" href="#"><img class=" " src="https://rahulshettyacademy.com/seleniumPractise/images/bag.png" alt="Cart"></a> @ :8
+[   32068ms] [LOG] h4 count 30 @ :4
+[   32068ms] [LOG] names [Brocolli - 1 Kg, Cauliflower - 1 Kg, Cucumber - 1 Kg, Beetroot - 1 Kg, Carrot - 1 Kg] @ :5
+[   32069ms] [LOG] input count 32 @ :6
+[   32069ms] [LOG] cart exists true <a class="cart-icon" href="#"><img class=" " src="https://rahulshettyacademy.com/seleniumPractise/images/bag.png" alt="Cart"></a> @ :8
+[   32070ms] [LOG] buttons [, PROCEED TO CHECKOUT, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART, ADD TO CART] @ :10
+[   64650ms] [LOG] 1 @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:5
+[   64651ms] [LOG] [Object] @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:5
+[   73259ms] [LOG] hi @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:5
+[   74285ms] [LOG] 1 @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:5
+[   74285ms] [LOG] [Object] @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:5

@@ -1,0 +1,403 @@
+[  -31855ms] [WARNING] Error parsing a meta element's content: ';' is not a valid key-value pair separator. Please use ',' instead. @ https://rahulshettyacademy.com/dropdownsPractise/:18
+[  -27367ms] [LOG] JQMIGRATE: Logging is active @ https://rahulshettyacademy.com/dropdownsPractise/js/2.js?version=09012018120022:27
+[  -18757ms] [WARNING] JQMIGRATE: jQuery.fn.live() is deprecated @ https://rahulshettyacademy.com/dropdownsPractise/js/2.js?version=09012018120022:27
+[  -18624ms] [WARNING] JQMIGRATE: jQuery.fn.attr('checked') may use property instead of attribute @ https://rahulshettyacademy.com/dropdownsPractise/js/2.js?version=09012018120022:27
+[  -18561ms] [LOG] 05-05-2019 @ https://rahulshettyacademy.com/dropdownsPractise/:2335
+[  -18533ms] [LOG] width:720--- Height:1280 @ https://rahulshettyacademy.com/dropdownsPractise/:3295
+[  -17193ms] [WARNING] JQMIGRATE: jQuery.parseJSON requires a valid JSON string @ https://rahulshettyacademy.com/dropdownsPractise/js/2.js?version=09012018120022:27
+[  -14734ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  -10731ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   -6741ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   -2735ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[      20ms] Unexpected token '<'
+[      20ms] Unexpected token '<'
+[      20ms] Unexpected token '<'
+[      20ms] Unexpected token '<'
+[      20ms] Unexpected token '<'
+[      20ms] Unexpected token '<'
+[      20ms] ReferenceError: Sys is not defined
+    at https://rahulshettyacademy.com/dropdownsPractise/:569:1
+[      20ms] ReferenceError: Sys is not defined
+    at https://rahulshettyacademy.com/dropdownsPractise/:3588:1
+[    1263ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[    5261ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[    9266ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   13301ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   17266ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   21262ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   25266ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   29268ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   33260ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   37267ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   41271ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   45313ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   49267ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   53262ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   57265ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   64744ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   68741ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   72748ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   76745ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   80743ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   84748ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   88746ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   92744ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[   96742ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  100748ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  104746ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  108744ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  112743ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  116746ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  120745ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  124742ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  128742ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  132743ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  136742ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  140742ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  144743ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  148746ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  152744ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  156741ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  160742ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  164745ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  168743ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  172742ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  176747ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  180744ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  184741ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  188751ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  192746ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  196744ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  200748ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  204748ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  208745ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  212743ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  216748ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  220746ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  224742ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  228741ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  232748ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  236746ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  240743ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  244742ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  248746ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  252744ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  256741ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  260751ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  264746ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  268744ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  272743ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  276746ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  280745ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  284743ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  288749ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  292747ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  296744ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  300743ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  304742ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  308746ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  312743ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  316743ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  320748ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  324746ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  328742ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  332741ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  336742ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  340743ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  344743ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  348744ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  352746ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  356743ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  360746ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  364748ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  368746ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  372743ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  376747ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  380744ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  384744ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  388742ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  392749ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  396746ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  400745ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  404743ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  408748ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  412744ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  416743ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  420748ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  424747ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  428744ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  432742ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  436747ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  440745ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  444745ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  448743ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  452747ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  456745ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  460742ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  464743ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  468746ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  472743ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  476742ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  480748ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  484745ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  488743ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  492741ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  496745ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  500745ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  504742ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  508747ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  512743ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  516744ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[  520742ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15365006ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15369634ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15373632ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15377639ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15381636ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15385634ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15389632ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15393638ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15397635ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15401633ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15405631ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15409637ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15413635ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15417633ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15421634ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15425634ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15429631ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15433631ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15437637ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15441636ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15445640ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15449635ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15453631ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15457637ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15461635ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15465633ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15469638ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15473636ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15477633ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15481632ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15485632ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15489636ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15493633ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15497639ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15501635ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15505635ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15509632ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15513632ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15517635ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15521634ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15525631ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15529638ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15533636ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15537635ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15541632ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15545637ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15549635ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15553633ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15557636ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15561633ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15565633ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15569633ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15573637ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15577636ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15581634ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15585633ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15589638ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15593635ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15597632ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15601631ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15605636ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15609634ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15613631ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15617631ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15621634ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15625632ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15629639ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15633637ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15637634ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15641632ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15645639ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15649636ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15653632ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15657631ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15661638ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15665637ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15669632ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15673632ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15677636ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15681635ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15685636ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15689638ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15693636ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15697634ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15701632ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15705638ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15709637ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15713632ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15717634ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15721637ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15725634ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15729633ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15733631ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15737634ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15741634ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15745631ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15749638ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15753635ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15757633ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15761638ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15765637ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15769634ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15773632ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15777635ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15781637ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15785634ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15789632ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15793632ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15797634ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15801632ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15805631ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15809637ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15813635ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15817633ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15821638ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15825631ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15829634ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15833631ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15837635ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15841635ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15845634ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15849639ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15853635ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15857633ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15861631ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15865637ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15869636ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15873633ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15877631ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15881639ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15885635ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15889632ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15893631ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15897636ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15901636ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15905632ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15909637ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15913635ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15917633ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15921639ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15925637ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15929634ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15933632ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15937638ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15941636ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15945633ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15949631ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15953636ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15957635ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15961633ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15965638ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15969635ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15973635ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15977632ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15981640ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15985636ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15989633ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15993632ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[15997631ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16001634ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16005631ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16009637ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16013635ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16017633ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16021631ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16025636ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16029634ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16033632ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16037638ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16041636ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16045635ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16049632ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16053638ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16057635ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16061633ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16065632ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16069638ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16073635ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16077633ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16081638ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16085635ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16089635ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16093635ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16097640ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16101635ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16105633ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16109631ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16113637ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16117635ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16121632ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16125637ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16129636ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16133635ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16137631ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16141631ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16145635ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16149632ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16153632ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16157638ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16161635ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16165633ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16169633ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16173635ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16177634ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16181634ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16185638ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16189635ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16193634ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16197633ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16201637ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16205633ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16209632ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16213635ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16217635ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16221633ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16225632ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16229636ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16233635ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16237634ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16241633ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16245634ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16249635ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16253632ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16257632ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16261633ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16265633ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16269633ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16273637ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16277632ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16281634ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16285632ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16289637ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16293634ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16297633ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16301636ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16305635ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16309633ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16313632ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16317637ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16321631ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16325631ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16329631ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16333631ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16337631ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16341631ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16345633ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16349631ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16353631ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16357631ms] [LOG] 3 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16361636ms] [LOG] 0 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16365633ms] [LOG] 1 @ https://rahulshettyacademy.com/dropdownsPractise/:3455
+[16369631ms] [LOG] 2 @ https://rahulshettyacademy.com/dropdownsPractise/:3455

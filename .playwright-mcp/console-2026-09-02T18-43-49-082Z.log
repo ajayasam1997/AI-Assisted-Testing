@@ -1,0 +1,18 @@
+[ -103322ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:0
+[ -103313ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.2ca8f6754e85a5b3842e.js:0
+[  -97537ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[  135387ms] [LOG] productCards 1 @ :0
+[  135388ms] [LOG] No. Of Items:0Total price:0 @ :0
+[  190835ms] [LOG] product count 1 @ :2
+[  190835ms] [LOG] <div class="showPriceWrapper product">No. Of Items:<br><span class="total-item">0</span><br>Total price:<br><span class="total-price product-price">0</span></div> @ :4
+[  190835ms] [LOG] cart anchor <a class="mobile-search" href="#"><img src="https://rahulshettyacademy.com/seleniumPractise/images/search-green.png" alt="search"></a> @ :7
+[  190835ms] [LOG] search exists true @ :9
+[  223295ms] [LOG] body length 6670 @ :2
+[  223295ms] [LOG] contains Search for Vegetables and Fruits true @ :12
+[  223296ms] [LOG] contains ADD TO CART false @ :12
+[  223296ms] [LOG] contains Total true @ :12
+[  223296ms] [LOG] contains cart-icon true @ :12
+[  223296ms] [LOG] contains product true @ :12
+[  223297ms] [LOG] contains no products matched your search true @ :12
+[  223297ms] [LOG] h4s  @ :15
+[  223298ms] [LOG] sample tags a:mobile-search | a:back-button | input:search-keyword | button:search-button | a:cart-header-navlink blinkingText | a:cart-header-navlink | a:cart-header-navlink | a:cart-icon | button:disabled | button:close @ :17

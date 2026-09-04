@@ -1,0 +1,39 @@
+- generic [ref=f4e3]:
+  - banner [ref=f4e4]:
+    - generic [ref=f4e5]:
+      - generic [ref=f4e6]: GREENKART
+      - generic [ref=f4e8]:
+        - searchbox "Search for Vegetables and Fruits" [active] [ref=f4e9]
+        - button [ref=f4e10] [cursor=pointer]
+      - generic [ref=f4e11]:
+        - link "Get Shortlisted by Recruiters - Take QA Skill Assessments on TechSmartHire" [ref=f4e12] [cursor=pointer]:
+          - /url: https://techsmarthire.com/
+        - link "Top Deals" [ref=f4e13] [cursor=pointer]:
+          - /url: "#/offers"
+        - link "Flight Booking" [ref=f4e14] [cursor=pointer]:
+          - /url: https://rahulshettyacademy.com/dropdownsPractise/
+        - table [ref=f4e16]:
+          - rowgroup [ref=f4e17]:
+            - row [ref=f4e18]:
+              - cell "Items" [ref=f4e19]
+              - cell ":" [ref=f4e20]
+              - cell [ref=f4e21]:
+                - strong [ref=f4e22]: "0"
+            - row [ref=f4e23]:
+              - cell "Price" [ref=f4e24]
+              - cell ":" [ref=f4e25]
+              - cell [ref=f4e26]:
+                - strong [ref=f4e27]: "0"
+        - link [ref=f4e28] [cursor=pointer]:
+          - /url: "#"
+          - img "Cart" [ref=f4e29]
+  - generic [ref=f4e366]:
+    - img "Empty Tree" [ref=f4e367]
+    - heading "Sorry, no products matched your search!" [level=2] [ref=f4e368]
+    - paragraph [ref=f4e369]: Enter a different keyword and try.
+  - contentinfo [ref=f4e362]:
+    - paragraph [ref=f4e363]:
+      - text: © 2019
+      - strong [ref=f4e364]: GreenKart
+      - text: "- buy veg and fruits online"
+  - text: ₹ ₹
