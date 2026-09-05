@@ -63,7 +63,12 @@ export default defineConfig({
       use: { ...devices['Desktop Edge'],
         channel: 'msedge'
        },
+    },
+    {
+      name: 'iPhone 13',
+      use: { ...devices['iPhone 13'] },
     }
+
 
 
     /* Test against mobile viewports. */

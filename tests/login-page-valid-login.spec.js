@@ -32,5 +32,9 @@ test.describe('LoginPage', () => {
     // A successful login redirects to the dashboard and displays its heading.
     await expect(page).toHaveURL("https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index");
     await expect(page.getByRole('heading', { name: 'Dashboard' })).toBeVisible();
+
+    await page.context().storageState({
+    path: 'playwright/.auth/user.json'
+  });
   });
 });
